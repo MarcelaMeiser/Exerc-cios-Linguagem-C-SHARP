@@ -1,0 +1,4 @@
+D:\Udemy\Algoritmo\Capitulo 12 - Linguagem C#\curso_programacao\curso_programacao\obj\Debug\net8.0\curso_programacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Algoritmo\Capitulo 12 - Linguagem C#\curso_programacao\curso_programacao\obj\Debug\net8.0\curso_programacao.AssemblyInfoInputs.cache
+D:\Udemy\Algoritmo\Capitulo 12 - Linguagem C#\curso_programacao\curso_programacao\obj\Debug\net8.0\curso_programacao.AssemblyInfo.cs
+D:\Udemy\Algoritmo\Capitulo 12 - Linguagem C#\curso_programacao\curso_programacao\obj\Debug\net8.0\curso_programacao.csproj.CoreCompileInputs.cache

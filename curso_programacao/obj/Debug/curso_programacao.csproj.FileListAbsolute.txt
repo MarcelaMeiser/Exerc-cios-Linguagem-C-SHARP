@@ -1,0 +1,7 @@
+D:\Udemy\Algoritmo\Capitulo 12 - Linguagem C#\curso_programacao\curso_programacao\bin\Debug\curso_programacao.exe.config
+D:\Udemy\Algoritmo\Capitulo 12 - Linguagem C#\curso_programacao\curso_programacao\bin\Debug\curso_programacao.exe
+D:\Udemy\Algoritmo\Capitulo 12 - Linguagem C#\curso_programacao\curso_programacao\bin\Debug\curso_programacao.pdb
+D:\Udemy\Algoritmo\Capitulo 12 - Linguagem C#\curso_programacao\curso_programacao\obj\Debug\curso_programacao.csproj.AssemblyReference.cache
+D:\Udemy\Algoritmo\Capitulo 12 - Linguagem C#\curso_programacao\curso_programacao\obj\Debug\curso_programacao.csproj.CoreCompileInputs.cache
+D:\Udemy\Algoritmo\Capitulo 12 - Linguagem C#\curso_programacao\curso_programacao\obj\Debug\curso_programacao.exe
+D:\Udemy\Algoritmo\Capitulo 12 - Linguagem C#\curso_programacao\curso_programacao\obj\Debug\curso_programacao.pdb
